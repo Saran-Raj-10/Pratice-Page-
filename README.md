@@ -23,3 +23,6 @@ __Saran Raj__
 4. And another item.
 
 [I'm an inline-style link](https://www.w3schools.com/cssref/css_pr_border-inline.php)
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
