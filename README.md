@@ -25,4 +25,4 @@ __Saran Raj__
 [I'm an inline-style link](https://www.w3schools.com/cssref/css_pr_border-inline.php)
 
 Inline-style: 
-![alt text](https://images.app.goo.gl/HTsSiquFVLaPdY5PA)
+![alt text](https://www.google.com/imgres?q=UPS%20logo&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F17%2F596%2Fpng-clipart-united-parcel-service-logo-ups-plane-pull-ups-logo-company-text.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eoiig&docid=sxKVixneE0otDM&tbnid=Pdocb9mDUNGp5M&vet=12ahUKEwjsraTDirqIAxUv1TgGHfUQEZcQM3oECHsQAA..i&w=900&h=650&hcb=2&ved=2ahUKEwjsraTDirqIAxUv1TgGHfUQEZcQM3oECHsQAA)
