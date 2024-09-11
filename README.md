@@ -25,4 +25,4 @@ __Saran Raj__
 [I'm an inline-style link](https://www.w3schools.com/cssref/css_pr_border-inline.php)
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fups-logo%2F&psig=AOvVaw1UNwsYfpbkXMtnlO_Kbtot&ust=1726116160737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCS-faJuogDFQAAAAAdAAAAABAE))
